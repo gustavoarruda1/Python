@@ -6,7 +6,6 @@
 def soma(a, b):
     return a + b
 
-
 # Função para subtrair dois números
 def subtrai(a, b):
     return a - b
